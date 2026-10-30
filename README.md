@@ -4,7 +4,6 @@
 
 WitnessChain is not a replacement for 112. It is an intake layer that turns a panicked bystander's video or voice clip into clean, structured data.
 
-> **Status: hackathon prototype.** The core pipeline works end to end. Some features are partial or mocked, and they are marked as such in [Feature status](#feature-status). Please do not use this for real emergencies. In an emergency, call **112**.
 
 ---
 
