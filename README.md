@@ -2,7 +2,7 @@
 
 **AI-assisted emergency reporting for India. Record a short clip, get a structured incident report, the right helpline number, and bystander instructions in your language.**
 
-Built for a 2-person hackathon (May 2026). WitnessChain is not a replacement for 112. It is an intake layer that turns a panicked bystander's video or voice clip into clean, structured data.
+WitnessChain is not a replacement for 112. It is an intake layer that turns a panicked bystander's video or voice clip into clean, structured data.
 
 > **Status: hackathon prototype.** The core pipeline works end to end. Some features are partial or mocked, and they are marked as such in [Feature status](#feature-status). Please do not use this for real emergencies. In an emergency, call **112**.
 
@@ -251,13 +251,3 @@ Returns `{"status": "vscode-backend-running", "colab_url": "..."}`.
 - Host inference properly and add auth, rate limiting and locked-down CORS
 - Native-speaker review of safety instructions per language
 
-## Team
-
-Built by a 2-person team in May 2026.
-
-- **AI and backend:** Whisper, BLIP/CLIP and YOLO pipeline, FastAPI backend, model integration
-- **Frontend and integration:** React PWA, Supabase, UI/UX, GPS, multilingual and anonymous mode
-
-## License
-
-Add a license before publishing (for example MIT).
